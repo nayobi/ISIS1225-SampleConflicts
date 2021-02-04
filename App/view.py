@@ -44,6 +44,7 @@ def printMenu():
     print("2- Cargar Tags")
     # TO-DO: Modificación de Est-1 en el Lab 2
     print("3- Cargar Book-Tags!")
+    print('Último libro cargado: ' + str(lt.lastElement(books)))
     print("0- Salir")
 
 

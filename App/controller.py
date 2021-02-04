@@ -57,4 +57,5 @@ def loadBooksTags(catalog):
     booktagsfile = cf.data_dir + filename
     return model.addBooksTags(booktagsfile)
 
+
     # pass
